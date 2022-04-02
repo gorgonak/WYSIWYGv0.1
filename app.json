@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "WYSIWYG - Alpha",
+    "slug": "WYSIWYG",
+    "version": "0.1.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Warhammer 40k reference app (early development)",
+    "githubUrl": "https://github.com/gorgonak/wysiwyg"
+  },
+  "name": "WYSIWYG"
+}
